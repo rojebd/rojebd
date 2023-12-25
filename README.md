@@ -2,7 +2,6 @@
 
 Hi I'm @rojebd
 A novice programmer who is always learning something new!
-You can reach me via my email at roniellberrios@gmail.com
 
 ## Currently Learning
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
